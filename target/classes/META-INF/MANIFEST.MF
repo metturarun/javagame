@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: vijay
+Build-Jdk: 11
+Main-Class: com.game.Game
+Created-By: Maven Integration for Eclipse
+

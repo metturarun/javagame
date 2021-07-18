@@ -1,0 +1,10 @@
+com\game\enemy\Enemy.class
+com\game\fight\Actions.class
+com\game\Game.class
+com\game\fight\UIService.class
+com\game\character\Character.class
+com\game\common\CommonUtils.class
+com\game\fight\UI.class
+com\game\fight\Fight.class
+com\game\fight\FightingMethod.class
+com\game\fight\AccessDamage.class
