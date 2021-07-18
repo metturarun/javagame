@@ -9,7 +9,7 @@ import com.game.fight.UIService;
 
 public class Game {
 	public static void main(String[] args) throws InterruptedException {
-
+//This is comment
 		int energyLevel = 0;
 		int skillLevel = 0;
 		String fightMessage = null;
