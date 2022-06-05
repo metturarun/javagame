@@ -1,3 +1,3 @@
 # javagame
 
-This is a Jave gmae
+This is a Jave game
